@@ -19,7 +19,6 @@
 //         console.log(data.address)
 //     }))
 // })
-
 const weatherForm = document.querySelector('form')
 const searchInput = document.querySelector('input')
 
